@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LOG_FILE="/tmp/freedns_Dogsand_us_to.log"
+LOG_FILE="/tmp/freedns_<your-subdomain>.log"
 HISTORY_FILE="/tmp/freedns_history.log"
 DELAY=20  # Adjust delay if needed
 
